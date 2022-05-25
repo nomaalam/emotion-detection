@@ -2,7 +2,6 @@ import 'package:camera/camera.dart';
 import 'package:emotion_detection/main.dart';
 import 'package:flutter/material.dart';
 import 'package:tflite/tflite.dart';
-import 'package:flutter/widgets.dart';
 
 class Home extends StatefulWidget {
   const Home({Key? key}) : super(key: key);
